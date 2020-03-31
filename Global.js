@@ -1,3 +1,0 @@
-(function() {
-    Global = Object.create({})
-})()
